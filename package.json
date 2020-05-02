@@ -1,0 +1,23 @@
+{
+  "name": "evil",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evildead28/EvilBot.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evildead28/EvilBot/issues"
+  },
+  "homepage": "https://github.com/evildead28/EvilBot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "ms": "^2.1.2"
+  }
+}
